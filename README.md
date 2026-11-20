@@ -14,4 +14,4 @@ Una plataforma de gestión para empresas guatemaltecas. Conecta la facturación 
 
 Un espacio de trabajo para coordinar agentes de IA y revisar sus cambios en Git desde un mismo lugar. [Descargas para macOS y Windows](https://github.com/wisegt/waisy-control-downloads/releases/latest).
 
-**Tecnologías que uso** · TypeScript, Vue, Nuxt, PostgreSQL y Supabase.
+**Tecnologías que uso** · TypeScript, Vue, Nuxt, PostgreSQL,React Native, Expo, Supabase y Oracle.
